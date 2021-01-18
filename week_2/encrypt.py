@@ -22,4 +22,4 @@ def decrypt():
             break
         
     the_file.close()    
-encrypt()   
+ 
